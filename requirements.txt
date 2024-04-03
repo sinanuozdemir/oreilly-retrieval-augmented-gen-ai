@@ -1,0 +1,6 @@
+openai==1.16.1
+supabase==1.0.3
+pinecone-client==3.2.2
+sentence-transformers==2.6.1
+tiktoken==0.6.0
+datasets==2.18.0
