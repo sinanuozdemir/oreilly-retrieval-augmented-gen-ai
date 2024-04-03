@@ -2,7 +2,7 @@
 
 Welcome to the "[Retrieval-Augmented Generation (RAG) and LLMs](https://learning.oreilly.com/live-events/retrieval-augmented-generation-rag-and-llms/0790145078618/0790145078600)" code repository! In this repo, we begin to understand how to augment large language models with real-time data for dynamic, context-aware apps.
 
-Much of the code in these sessions will be featured in the 2nd edition of my latest book on LLMs: 
+Much of the code in these sessions will be featured in the 2nd edition of [my latest book on LLMs](https://www.amazon.com/quick-start-guide-language-models/dp/0138199191):
 
 <div style="text-align: center;">
     <a href="https://www.amazon.com/quick-start-guide-language-models/dp/0138199191">
@@ -51,4 +51,10 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Book time with me on Intro!
-If you have questions, I'm available on Intro :) [https://intro.co/sinanozdemir](https://intro.co/sinanozdemir)
+If you have questions, I'm available on [Intro](https://intro.co/sinanozdemir) :) 
+
+<div style="text-align: center;">
+    <a href="https://intro.co/sinanozdemir">
+        <img src="images/intro.png" width="300" alt="Book time with me on Intro">
+    </a>
+</div>
