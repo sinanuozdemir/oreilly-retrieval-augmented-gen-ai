@@ -24,12 +24,7 @@ For even more, check out my [Expert Playlist](https://learning.oreilly.com/playl
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Install the required Python libraries using pip:
-
-```bash
-pip install -r requirements.txt
-```
-Ensure you have set the following api keyes:
+2. Ensure you have set the following api keyes:
 
 1. OpenAI key
 2. Pinecone Key
@@ -41,11 +36,13 @@ You're all set to explore the notebooks!
 
 This project contains several Jupyter notebooks each focusing on a specific topic:
 
-1. **[Semantic Search](notebooks/semantic_search.ipynb)**: An introduction to semantic search
+1. **[RAG - Retrieval](https://colab.research.google.com/drive/17BDbpkhCzYARjZ88o44TWSAs4vEOtcHe?usp=sharing)**: An introduction to vector databases, embeddings, and retrieval
 
-2. **[RAG Chatbot](notebooks/rag_bot.ipynb)**: Building a RAG chatbot using our semantic search system
+	- **[Advanced Semantic Search](https://colab.research.google.com/drive/1h8dmDclOnYsXKlMDYp1uRuW55xbzypUY?usp=sharing)**: A more advanced notebook on semantic search, cross-encoders, and fine-tuning
 
-3. **[First Steps with Agents](https://colab.research.google.com/drive/14jAlW2E7ya_aS1M6eUsuHciC1WvLfIif?usp=sharing)**: A natural expansion from RAG to automated AI Agents
+2. **[RAG - Generation](https://colab.research.google.com/drive/1OQ8z-Eak_NL1lYWp_q_GQOW33wvnHM6g?usp=sharing)**: Building a RAG chatbot using our semantic search retrieval system
+
+	- **[First Steps with Agents](https://colab.research.google.com/drive/14jAlW2E7ya_aS1M6eUsuHciC1WvLfIif?usp=sharing)**: A natural expansion from RAG to automated AI Agents
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
