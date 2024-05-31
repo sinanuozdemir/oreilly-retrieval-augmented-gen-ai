@@ -39,6 +39,7 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 1. **[RAG - Retrieval](https://colab.research.google.com/drive/17BDbpkhCzYARjZ88o44TWSAs4vEOtcHe?usp=sharing)**: An introduction to vector databases, embeddings, and retrieval
 
 	- **[Advanced Semantic Search](https://colab.research.google.com/drive/1h8dmDclOnYsXKlMDYp1uRuW55xbzypUY?usp=sharing)**: A more advanced notebook on semantic search, cross-encoders, and fine-tuning
+	- **[Advanced - Fine-tuning Embeddings](https://colab.research.google.com/drive/1JfxyxdGCDjYeO52Bk1JzW4Af94xndTws?usp=sharing)**: Fine-tuning embedding engines using custom preference data
 
 2. **[RAG - Generation](https://colab.research.google.com/drive/1OQ8z-Eak_NL1lYWp_q_GQOW33wvnHM6g?usp=sharing)**: Building a RAG chatbot using our semantic search retrieval system
 
