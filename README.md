@@ -25,10 +25,11 @@ For even more, check out my [Expert Playlist](https://learning.oreilly.com/playl
 
 1. Clone this repository to your local machine.
 2. Ensure you have set the following api keyes:
-
-1. OpenAI key
-2. Pinecone Key
-3. Huggingface Key (if you want to deploy)
+ - [OpenAI key](https://platform.openai.com/api-keys)
+ - [Pinecone Key](https://docs.pinecone.io/guides/get-started/quickstart)
+ - [Anthropic Key](https://docs.anthropic.com/en/docs/quickstart)
+ - [Cohere Key](https://dashboard.cohere.com/api-keys)
+ - [Huggingface Key](https://huggingface.co/settings/tokens) (if you want to deploy llama)
 
 You're all set to explore the notebooks!
 
