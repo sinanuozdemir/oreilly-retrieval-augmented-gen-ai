@@ -36,13 +36,18 @@ You're all set to explore the notebooks!
 
 This project contains several Jupyter notebooks each focusing on a specific topic:
 
-1. **[RAG - Retrieval](https://colab.research.google.com/drive/17BDbpkhCzYARjZ88o44TWSAs4vEOtcHe?usp=sharing)**: An introduction to vector databases, embeddings, and retrieval
+1. **[RAG - Retrieval](notebooks/RAG_Retrieval.ipynb)**: An introduction to vector databases, embeddings, and retrieval
 
 	- **[Advanced Semantic Search](https://colab.research.google.com/drive/1h8dmDclOnYsXKlMDYp1uRuW55xbzypUY?usp=sharing)**: A more advanced notebook on semantic search, cross-encoders, and fine-tuning
 
-2. **[RAG - Generation](https://colab.research.google.com/drive/1OQ8z-Eak_NL1lYWp_q_GQOW33wvnHM6g?usp=sharing)**: Building a RAG chatbot using our semantic search retrieval system
+2. **[RAG - Generation](notebooks/RAG_Generate.ipynb)**: Building a RAG chatbot using our semantic search retrieval system
 
 	- **[First Steps with Agents](https://colab.research.google.com/drive/14jAlW2E7ya_aS1M6eUsuHciC1WvLfIif?usp=sharing)**: A natural expansion from RAG to automated AI Agents
+
+## References
+
+1. Open-source models built for RAG - [Command-R by Cohere](https://cohere.com/blog/command-r?ref=cohere-ai.ghost.io)
+	- Example model on [HuggingFace](https://huggingface.co/CohereForAI/c4ai-command-r-v01-4bit)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
