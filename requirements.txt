@@ -1,6 +1,6 @@
 openai==1.35.7
 supabase==1.0.3
 pinecone-client==4.1.1
-sentence-transformers==3.0.1
-datasets==2.20.0
 anthropic==0.25.9
+cohere==5.5.8
+pongo-python==4.1.0
