@@ -41,11 +41,14 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 1. **[RAG - Retrieval](notebooks/RAG_Retrieval.ipynb)**: An introduction to vector databases, embeddings, and retrieval
 
 	- **[Advanced Semantic Search](https://colab.research.google.com/drive/1h8dmDclOnYsXKlMDYp1uRuW55xbzypUY?usp=sharing)**: A more advanced notebook on semantic search, cross-encoders, and fine-tuning
-	- **[Advanced - Fine-tuning Embeddings](https://colab.research.google.com/drive/1JfxyxdGCDjYeO52Bk1JzW4Af94xndTws?usp=sharing)**: Fine-tuning embedding engines using custom preference data
+	- **[Advanced - Fine-tuning Embeddings For Rec Engines](https://colab.research.google.com/drive/1JfxyxdGCDjYeO52Bk1JzW4Af94xndTws?usp=sharing)**: Fine-tuning embedding engines using custom preference data
+	- **[Advanced - Fine-tuning Embeddings  with Synthetic Data](https://colab.research.google.com/drive/1ywIBrxB7iw8YYND1A0OFAQucTeEa9UMR?usp=sharing)** - Using GPT-4o to create synthetic queries for a corpus to increase the quality of open-source embedding models
 
 2. **[RAG - Generation](notebooks/RAG_Generate.ipynb)**: Building a RAG chatbot using our semantic search retrieval system
 
 	- **[First Steps with Agents](https://colab.research.google.com/drive/14jAlW2E7ya_aS1M6eUsuHciC1WvLfIif?usp=sharing)**: A natural expansion from RAG to automated AI Agents
+
+3. **[Advanced - GraphRAG](https://colab.research.google.com/drive/1Z-_m3cP9YCOXA86IwWGeeGdP8gzZ_cCX?usp=sharing)** - A simple introduction to GraphRAG (RAG using a knowledge graph) using Neo4J, Cohere's Re-Rank, GPT-4o, and a touch of Langchain
 
 ## References
 
