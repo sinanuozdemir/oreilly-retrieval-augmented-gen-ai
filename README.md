@@ -56,6 +56,10 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 1. Open-source models built for RAG - [Command-R by Cohere](https://cohere.com/blog/command-r?ref=cohere-ai.ghost.io)
 	- Example model on [HuggingFace](https://huggingface.co/CohereForAI/c4ai-command-r-v01-4bit)
 
+2. [Neo4J's GraphRAG Manifesto](https://neo4j.com/blog/graphrag-manifesto/)
+
+3. [A quick-start guide to GraphRAG with LangChain](https://medium.com/data-science-in-your-pocket/graphrag-using-langchain-31b1ef8328b9) - inspired part of my GraphRAG code
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
