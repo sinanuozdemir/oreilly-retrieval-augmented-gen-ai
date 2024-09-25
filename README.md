@@ -45,7 +45,7 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 
 2. **[RAG - Generation](notebooks/RAG_Generate.ipynb)**: Building a RAG chatbot using our semantic search retrieval system
 
-	- **[Evaluating LLMs with Rubrics](https://colab.research.google.com/drive/1BeA3QyTjBcR45v3VN6WJk_rjCDOarOpm?usp=sharing)** - Exploring a rubric prompt to evaluate generative output
+	- **[Evaluating LLMs with Rubrics](https://colab.research.google.com/drive/1DeVYrdNb3FlQQLeBqGPFkx6roZaPwVRy?usp=sharing)** - Exploring a rubric prompt to evaluate generative output
 
 	- **[First Steps with Agents](https://colab.research.google.com/drive/14jAlW2E7ya_aS1M6eUsuHciC1WvLfIif?usp=sharing)**: A natural expansion from RAG to automated AI Agents
 
