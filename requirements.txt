@@ -1,6 +1,5 @@
-openai==1.35.7
+openai==1.48.0
 supabase==1.0.3
 pinecone-client==4.1.1
 anthropic==0.25.9
-cohere==5.5.8
-pongo-python==4.1.0
+cohere==5.10.0
