@@ -9,6 +9,15 @@ This is a simple chat application that uses a FastAPI backend (`app.py`) and a S
 
 ## Setup Instructions
 
+### 0. Set up an .env file
+
+Create an .env file with `touch .env` and replace the contents below with your actual API keys
+
+```bash
+PINECONE_API_KEY=XXXX
+OPENAI_API_KEY=XXXX
+```
+
 ### 1. Install Dependencies
 
 Navigate to the project directory in your terminal and install the required packages using the provided `requirements.txt` file:
