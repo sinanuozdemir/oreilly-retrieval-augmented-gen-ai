@@ -17,7 +17,7 @@ def get_bot_response(user_input):
         "threshold": 0.3,
         "conversation_id": st.session_state['conversation_id']
     }
-    response = requests.post("http://multi.ngrok.io/process_text", json=payload)
+    response = requests.post("http://localhost:8000/process_text", json=payload)
     if response.status_code == 200:
         data = response.json()
         bot_response = data['response']
