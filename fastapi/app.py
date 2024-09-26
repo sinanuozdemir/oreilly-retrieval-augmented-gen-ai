@@ -1,19 +1,14 @@
 import datetime
-import hashlib
 import os
-import os
-import re
-from typing import Dict, Optional, Any
-from typing import List, Dict, Tuple
+from typing import Any, List, Tuple
 
-import openai
-import pandas as pd
 import uvicorn
 from dotenv import load_dotenv
-from fastapi import FastAPI
 from openai import OpenAI
-from pinecone import Pinecone, ServerlessSpec
-from pydantic import BaseModel, Field
+from pinecone import Pinecone
+from pydantic import BaseModel
+
+from fastapi import FastAPI
 
 app = FastAPI()
 load_dotenv()

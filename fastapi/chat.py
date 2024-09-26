@@ -8,6 +8,7 @@ if 'conversation_id' not in st.session_state:
 if 'history' not in st.session_state:
     st.session_state['history'] = []
 
+
 def get_bot_response(user_input):
     print(st.session_state['conversation_id'])
     payload = {
@@ -24,6 +25,7 @@ def get_bot_response(user_input):
         return bot_response
     else:
         return "Error: API request failed."
+
 
 st.title("🤖 Chat with the Bot")
 
