@@ -2,3 +2,4 @@ openai==1.48.0
 pinecone-client==4.1.1
 streamlit==1.38.0
 fastapi==0.115.0
+uvicorn==0.30.6
