@@ -3,3 +3,5 @@ supabase==1.0.3
 pinecone-client==4.1.1
 anthropic==0.25.9
 cohere==5.10.0
+google-generativeai==0.8.3
+ollama-python==0.1.2
