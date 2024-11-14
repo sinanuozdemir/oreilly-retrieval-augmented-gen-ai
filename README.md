@@ -28,8 +28,10 @@ For even more, check out my [Expert Playlist](https://learning.oreilly.com/playl
  - [OpenAI key](https://platform.openai.com/api-keys)
  - [Pinecone Key](https://docs.pinecone.io/guides/get-started/quickstart)
  - [Anthropic Key](https://docs.anthropic.com/en/docs/quickstart)
+ - [Gemini API Key](https://ai.google.dev/gemini-api/docs)
  - [Cohere Key](https://dashboard.cohere.com/api-keys)
  - [Huggingface Key](https://huggingface.co/settings/tokens) (if you want to deploy llama)
+ 
 
 You're all set to explore the notebooks!
 
