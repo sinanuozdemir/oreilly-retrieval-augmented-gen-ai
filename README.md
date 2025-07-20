@@ -1,6 +1,6 @@
 # Retrieval-Augmented Generation (RAG) and LLMs
 
-Welcome to the "[Retrieval-Augmented Generation (RAG) and LLMs](https://learning.oreilly.com/live-events/retrieval-augmented-generation-rag-and-llms/0790145078618/0790145078600)" code repository! In this repo, we begin to understand how to augment large language models with real-time data for dynamic, context-aware apps. This code repo is also used for my [video on the O'Reilly Platform](https://learning.oreilly.com/course/practical-retrieval-augmented/9780135414378/).
+Welcome to the "[Retrieval-Augmented Generation (RAG) and Agents and LLMs](https://learning.oreilly.com/live-events/retrieval-augmented-generation-rag-and-agents-using-llms/0642572007797)" code repository! In this repo, we begin to understand how to augment large language models with real-time data for dynamic, context-aware apps. This code repo is also used for my [video on the O'Reilly Platform](https://learning.oreilly.com/course/practical-retrieval-augmented/9780135414378/).
 
 Much of the code in these sessions is be featured in the 2nd edition of [my latest book on LLMs](https://www.amazon.com/Quick-Start-Guide-Language-Models-dp-0135346568/dp/0135346568):
 
