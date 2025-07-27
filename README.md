@@ -52,9 +52,11 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 
 	- **[First Steps with Agents](https://colab.research.google.com/drive/14jAlW2E7ya_aS1M6eUsuHciC1WvLfIif?usp=sharing)**: A natural expansion from RAG to automated AI Agents
 
-3. **[Advanced - GraphRAG](notebooks/GraphRAG.ipynb)** - A simple introduction to GraphRAG (RAG using a knowledge graph) using Neo4J, Cohere's Re-Rank, GPT-4o, and a touch of Langchain
+3. **[LangGraph - RAG](notebooks/LangGraph_RAG.ipynb)** - Using LangGraph to make a RAG workflow end to end with a grading component built in.
+
+4. **[Advanced - GraphRAG](notebooks/GraphRAG.ipynb)** - A simple introduction to GraphRAG (RAG using a knowledge graph) using Neo4J, Cohere's Re-Rank, GPT-4o, and a touch of Langchain
  
-4. **[Advanced - Multimodal Retrieval](https://colab.research.google.com/drive/1aUz0FKQDSAyXyhRyvkkRsSy7S30mpRJc?usp=sharing)** - Using a CLIP model to build an image search system
+5. **[Advanced - Multimodal Retrieval](https://colab.research.google.com/drive/1aUz0FKQDSAyXyhRyvkkRsSy7S30mpRJc?usp=sharing)** - Using a CLIP model to build an image search system
 
 
 ## References
