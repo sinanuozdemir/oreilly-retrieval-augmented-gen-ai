@@ -1,6 +1,6 @@
-# Retrieval-Augmented Generation (RAG) and LLMs
+# Retrieval-Augmented Generation (RAG) and Agents Using LLMs
 
-Welcome to the "[Retrieval-Augmented Generation (RAG) and LLMs](https://learning.oreilly.com/live-events/retrieval-augmented-generation-rag-and-llms/0790145078618/0790145078600)" code repository! In this repo, we begin to understand how to augment large language models with real-time data for dynamic, context-aware apps.
+Welcome to the "[Retrieval-Augmented Generation (RAG) and Agents Using LLMs](https://learning.oreilly.com/live-events/retrieval-augmented-generation-rag-and-agents-using-llms/0642572007797)" code repository! In this repo, we begin to understand how to augment large language models with real-time data for dynamic, context-aware apps. This code repo is also used for my [video on the O'Reilly Platform](https://learning.oreilly.com/course/practical-retrieval-augmented/9780135414378/).
 
 Much of the code in these sessions is be featured in the 2nd edition of [my latest book on LLMs](https://www.amazon.com/Quick-Start-Guide-Language-Models-dp-0135346568/dp/0135346568):
 
@@ -42,7 +42,7 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 1. **[RAG - Retrieval](notebooks/RAG_Retrieval.ipynb)**: An introduction to vector databases, embeddings, and retrieval
 
 	- **[FastAPI + Chatting](fastapi/)** - A simple FASTAPI implementation of our RAG app and a chat client using streamlit to test our work!
-	- **[Advanced Semantic Search](https://colab.research.google.com/drive/1h8dmDclOnYsXKlMDYp1uRuW55xbzypUY?usp=sharing)**: A more advanced notebook on semantic search, cross-encoders, and fine-tuning
+	- **[Advanced Semantic Search](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/02_semantic_search.ipynb)**: A more advanced notebook on semantic search, cross-encoders, and fine-tuning from my [book](https://github.com/sinanuozdemir/quick-start-guide-to-llms).
 	- **[Advanced - Fine-tuning Embeddings For Rec Engines](https://colab.research.google.com/drive/1JfxyxdGCDjYeO52Bk1JzW4Af94xndTws?usp=sharing)**: Fine-tuning embedding engines using custom preference data
 	- **[Advanced - Fine-tuning Embeddings  with Synthetic Data](https://colab.research.google.com/drive/1FOr9hgMEcTa8UJJSuKjoHpohVb-Qz-FJ?usp=sharing)** - Using GPT-4o to create synthetic queries for a corpus to increase the quality of open-source embedding models
 
