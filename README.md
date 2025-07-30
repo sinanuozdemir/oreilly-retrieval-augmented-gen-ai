@@ -54,7 +54,7 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 
 3. **[LangGraph - RAG](notebooks/LangGraph_RAG.ipynb)** - Using LangGraph to make a RAG workflow end to end with a grading component built in.
 
-	- **[Evaluating the workflow with synthetic test data]**(https://github.com/sinanuozdemir/oreilly-ai-agents/blob/main/notebooks/LangGraph_Workfow_Eval.ipynb)
+	- **[Evaluating the workflow with synthetic test data](https://github.com/sinanuozdemir/oreilly-ai-agents/blob/main/notebooks/LangGraph_Workfow_Eval.ipynb)**
 
 4. **[Advanced - GraphRAG](notebooks/GraphRAG.ipynb)** - A simple introduction to GraphRAG (RAG using a knowledge graph) using Neo4J, Cohere's Re-Rank, GPT-4o, and a touch of Langchain
  
