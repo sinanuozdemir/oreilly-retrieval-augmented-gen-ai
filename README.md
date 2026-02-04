@@ -50,7 +50,7 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 
 	- **[Evaluating LLMs with Rubrics](./notebooks/Evaluating_RAG_with_Rubrics.ipynb)** - Exploring a rubric prompt to evaluate generative output
 
-	- **[First Steps with Agents](https://colab.research.google.com/drive/14jAlW2E7ya_aS1M6eUsuHciC1WvLfIif?usp=sharing)**: A natural expansion from RAG to automated AI Agents
+	- **[First Steps with Agents](notebooks/Agentic RAG.ipynb)**: A natural expansion from RAG to automated AI Agents
 
 3. **[LangGraph - RAG](notebooks/LangGraph_RAG.ipynb)** - Using LangGraph to make a RAG workflow end to end with a grading component built in.
 
