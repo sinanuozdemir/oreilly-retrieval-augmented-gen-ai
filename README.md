@@ -24,14 +24,23 @@ For even more, check out my [Expert Playlist](https://learning.oreilly.com/playl
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Ensure you have set the following api keyes:
+2. Copy the [`.env.example`](.env.example) file into [`.env`](.env)
+3. Ensure you have set the following api keys in [`.env`](.env):
  - [OpenAI key](https://platform.openai.com/api-keys)
- - [Pinecone Key](https://docs.pinecone.io/guides/get-started/quickstart)
- - [Anthropic Key](https://docs.anthropic.com/en/docs/quickstart)
- - [Gemini API Key](https://ai.google.dev/gemini-api/docs)
- - [Cohere Key](https://dashboard.cohere.com/api-keys)
- - [Huggingface Key](https://huggingface.co/settings/tokens) (if you want to deploy llama)
- 
+ - [Pinecone key](https://docs.pinecone.io/guides/get-started/quickstart)
+ - [Anthropic key](https://docs.anthropic.com/en/docs/quickstart)
+ - [Gemini key](https://ai.google.dev/gemini-api/docs)
+ - [Cohere key](https://dashboard.cohere.com/api-keys)
+ - [Huggingface key](https://huggingface.co/settings/tokens) (if you want to deploy llama)
+4. Setup the virtual environment and run jupyter
+
+```bash
+pyenv shell 3.13.11
+pyenv exec python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python3 -m jupyter notebook
+```
 
 You're all set to explore the notebooks!
 
@@ -44,7 +53,7 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 	- **[FastAPI + Chatting](fastapi/)** - A simple FASTAPI implementation of our RAG app and a chat client using streamlit to test our work!
 	- **[Advanced Semantic Search](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/02_semantic_search.ipynb)**: A more advanced notebook on semantic search, cross-encoders, and fine-tuning from my [book](https://github.com/sinanuozdemir/quick-start-guide-to-llms).
 	- **[Advanced - Fine-tuning Embeddings For Rec Engines](https://colab.research.google.com/drive/1JfxyxdGCDjYeO52Bk1JzW4Af94xndTws?usp=sharing)**: Fine-tuning embedding engines using custom preference data
-	- **[Advanced - Fine-tuning Embeddings  with Synthetic Data](https://colab.research.google.com/drive/1FOr9hgMEcTa8UJJSuKjoHpohVb-Qz-FJ?usp=sharing)** - Using GPT-4o to create synthetic queries for a corpus to increase the quality of open-source embedding models
+	- **[Advanced - Fine-tuning Embeddings with Synthetic Data](https://colab.research.google.com/drive/1FOr9hgMEcTa8UJJSuKjoHpohVb-Qz-FJ?usp=sharing)** - Using GPT-4o to create synthetic queries for a corpus to increase the quality of open-source embedding models
 
 2. **[RAG - Generation](notebooks/RAG_Generate.ipynb)**: Building a RAG chatbot using our semantic search retrieval system
 
@@ -71,9 +80,11 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 3. [A quick-start guide to GraphRAG with LangChain](https://medium.com/data-science-in-your-pocket/graphrag-using-langchain-31b1ef8328b9) - inspired part of my GraphRAG code
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Book time with me on Intro!
+
 If you have questions, I'm available on [Intro](https://intro.co/sinanozdemir) :) 
 
 <div style="text-align: center;">
